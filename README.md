@@ -17,7 +17,7 @@
 ---
 
 <h1 align="center">
-  Hi there 👋, &lt; I'M SARVESH MARAN ⍩/&gt;
+  Hi there 👋, &lt; I'M SARVESH MARAN /&gt;
 </h1>
 
 <h3 align="center">
